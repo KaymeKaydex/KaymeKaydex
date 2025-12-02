@@ -1,5 +1,5 @@
 ### Hi there 👋, im Max
-<img src="https://github-readme-stats.vercel.app/api?username=KaymeKaydex&show_icons=true&count_private=true&theme=tokyonight">
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=KaymeKaydex)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
 ##### I am a golang developer with 5+ years of industry experience building web applications.
